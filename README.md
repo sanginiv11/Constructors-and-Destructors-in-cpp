@@ -75,5 +75,3 @@ Algorithm:
 ## Conclusion
 These programs demonstrate the object lifecycle: initializing members via default and parameterized constructors, duplicating state with a copy constructor, separating declarations from definitions for clarity, and automatic cleanup via destructors. Together, they provide a concise tour of constructor and destructor usage in class design.
 ng-destructors)
-[15](https://www.geeksforgeeks.org/cpp/importance-of-constructors-in-cpp/)
-[16](https://www.learncpp.com/cpp-tutorial/introduction-to-destructors/)
