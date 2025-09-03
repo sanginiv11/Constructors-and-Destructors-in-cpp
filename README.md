@@ -73,5 +73,4 @@ Algorithm:
 - End.
 
 ## Conclusion
-These programs demonstrate the object lifecycle: initializing members via default and parameterized constructors, duplicating state with a copy constructor, separating declarations from definitions for clarity, and automatic cleanup via destructors. Together, they provide a concise tour of constructor and destructor usage in class design.
-ng-destructors)
+These programs demonstrate the object lifecycle: initializing members via default and parameterized constructors, duplicating state with a copy constructor, separating declarations from definitions for clarity, and automatic cleanup via destructors. Together, they provide a concise tour of constructor and destructor usage in class designing-destructors)
